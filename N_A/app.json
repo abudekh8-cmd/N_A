@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "N_A",
+    "slug": "N_A",
+    "version": "1.0.0",
+    "sdkVersion": "44.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "android": {
+      "package": "com.abude_kh.snack"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cbcfcb20-aa67-4c0c-b2fa-f1357fe77e4d"
+      }
+    }
+  }
+}
